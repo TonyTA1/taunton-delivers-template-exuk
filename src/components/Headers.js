@@ -7,10 +7,10 @@ import { Button } from './Buttons';
 export const Nav = () => {
   return (
     <StyledNav role="navigation">
-      <Button path="https://airtable.com/">
+      <Button path="https://airtable.com/shrBwj7EDw3ZGDKNK">
         <span role="img" aria-label="List">📍</span>&nbsp;List your business
       </Button>
-       <Button path="mailto:me@mytowndelivers.com">
+       <Button path="mailto:addacumen@gmail.com">
        <span role="img" aria-label="Email">📧</span>&nbsp;&nbsp;Email us
        </Button>
        <Button path="https://www.facebook.com/mytowndelivers">
@@ -24,7 +24,7 @@ export const HeroHeader = ({ search }) => {
   return (
     <StyledHeroHeader role="banner" style={{ backgroundImage: `url(/images/Header@2x.png)` }}>
       <Container>
-        <h1>My Town Delivers</h1>
+        <h1>Taunton Delivers</h1>
         <p>Helping local restaurants, shops &amp; essential services that deliver direct to your door.</p>
         <p>Try searching what you're looking for e.g. bread, coffee, beer, prescriptions:</p>
         <LocationSearch />
