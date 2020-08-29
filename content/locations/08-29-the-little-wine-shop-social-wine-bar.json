@@ -1,0 +1,25 @@
+{
+  "safetyTips": "Contact-free delivery. ",
+  "name": "The Little Wine Shop & Social Wine Bar",
+  "phone": "01823 288898",
+  "address": "1 Foundry Road, TA1 1JJ",
+  "cover": "https://res.cloudinary.com/tauntondelivers/image/upload/c_limit,f_auto,q_80,w_500/v1598689510/use-td-wineclub_omaowe.jpg",
+  "tags": [
+    "Cheese",
+    "Restaurant",
+    "Wine",
+    "Cider",
+    "Beer",
+    "Takeaway"
+  ],
+  "website": "https://www.thelittlewineshopandsocial.co.uk",
+  "deliveryHours": [
+    "Tuesday (variable time slots)",
+    "Wednesday (variable time slots)",
+    "Thursday (variable time slots)",
+    "Friday (variable time slots)",
+    "Saturday (variable time slots)"
+  ],
+  "email": "littlewineshopsocial@icloud.com",
+  "description": "Wines, beers, spirits, cheese and charcuterie."
+}
