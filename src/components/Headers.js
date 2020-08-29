@@ -13,7 +13,7 @@ export const Nav = () => {
        <Button path="mailto:TauntonDelivers@gmail.com">
        <span role="img" aria-label="Email">📧</span>&nbsp;&nbsp;Email us
        </Button>
-       <Button path="https://www.facebook.com/mytowndelivers">
+       <Button path="https://www.facebook.com/taunton.delivers">
        <span role="img" aria-label="Facebook">🙌</span>&nbsp;&nbsp;Follow on Facebook
        </Button>
     </StyledNav>
