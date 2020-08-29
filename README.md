@@ -193,7 +193,7 @@ You will also need to also configure Git Gateway. You may receive the following 
 
 Alternatively, you can update the email templates that a user would receive when creating a new account on Netlify CMS.
 
-Alternative template files are saved `public/admin/templates`. To implement, in Netlify, `Settings` - `Identity` - `Emails`, update the `Path to template:` to 
+Alternative template files are saved for you in the following folder (correcting the issue): `public/admin/templates`. To implement these templates in Netlify, `Settings` - `Identity` - `Emails`, update the `Path to template:` to 
 
 ```
 /admin/templates/confirmation.html

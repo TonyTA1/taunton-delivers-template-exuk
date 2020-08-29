@@ -10,14 +10,13 @@ export const Nav = () => {
       <Button path="https://airtable.com/shrBwj7EDw3ZGDKNK">
         <span role="img" aria-label="List">📍</span>&nbsp;List your business
       </Button>
-       <Button path="mailto:addacumen@gmail.com">
+       <Button path="mailto:TauntonDelivers@gmail.com">
        <span role="img" aria-label="Email">📧</span>&nbsp;&nbsp;Email us
        </Button>
        <Button path="https://www.facebook.com/mytowndelivers">
        <span role="img" aria-label="Facebook">🙌</span>&nbsp;&nbsp;Follow on Facebook
        </Button>
     </StyledNav>
-  )
 }
 
 export const HeroHeader = ({ search }) => {

@@ -9,8 +9,8 @@ public_folder: "/uploads" # The src attribute for uploaded media will begin with
 media_library:
   name: cloudinary
   config:
-    cloud_name: mytown-delivers # Add Cloudinary name
-    api_key: # Add Cloudinary API key
+    cloud_name: taunton-delivers
+    api_key: 538121269935963
     default_transformations:
       - - fetch_format: auto
           width: 500
