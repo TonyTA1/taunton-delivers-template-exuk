@@ -17,6 +17,7 @@ export const Nav = () => {
        <span role="img" aria-label="Facebook">🙌</span>&nbsp;&nbsp;Follow on Facebook
        </Button>
     </StyledNav>
+  )
 }
 
 export const HeroHeader = ({ search }) => {
